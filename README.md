@@ -1,11 +1,11 @@
 ## Build Devices Tree Recovery LineageOS Itel P65 
 
-Target:
-- LineageOS 21 / Android 14
-- Lineage Recovery
-- Device: itel P65 / P671L
-- SoC: Unisoc UMS9230
-- Recovery location: vendor_boot
+Phone specifications:
+- Device: itel P65
+- Code Name: P671L
+- SoC: Unisoc UMS9230/Unisoc T615
+- Ram/Rom: 8/128GB
+- OS: ItelOS 14 Android 14
 
 Build:
 - mkdir -p device/itel
