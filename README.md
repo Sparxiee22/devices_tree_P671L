@@ -8,7 +8,7 @@ Phone specifications:
 - OS: ItelOS 14 Android 14
 
 Build:
-- mkdir -p device/itel
+- mkdir -p device/p671l
 - git clone https://github.com/Sparxiee22/devices_tree_P671L.git device/itel/p671l
 - source build/envsetup.sh
 - lunch lineage_p671l-ap2a-eng
