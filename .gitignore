@@ -1,0 +1,9 @@
+out/
+*.log
+*.img
+*.zip
+*.tar
+*.tar.gz
+*.cpio
+*.cpio.gz
+*.tmp
